@@ -1,30 +1,28 @@
-# Hi, I'm Gias Uddin 👋 👨‍💻 Software Engineer:
-7+ years of experience as PHP Programmer includes Excellent experience in Developing Web
-Applications, web sites, ecommerce projects using PHP. Good work ethics with excellent
-communication and interpersonal skills. Capable to delve into the new leading Technologies. Ability to
-work well in both a team environment and individual. Experience for Handling Multiple projects at a
-same time.
+# Hi, I'm Gias Uddin 👋 👨‍💻 :
+
+8+ years experience in software development industry through this time i have worked in local and multinational company work with Cutting-edge technology.
+Lead developer team and design complex software architecture, micro sirvice and polygot architecture.I am a focused self-taught professional who has been continuously praised as a problem solver.
+
+
 ## Technical Skills & Competences
 ### Frameworks
-- Laravel, Symphony, CodeIgniter
-- Node.js, Next.js, Nuxt.js, AdonisJS,
-### Frontend
-- ReactJS, Redux, AntDesign, VueJS, Vuex, Vuetify
-- Vanilla, jQuery, Bootstrap, Semantic UI, Tailwind CSS
+- Django, Django Rest Framework, Pyramid, Flask, Scrapy
+
 ### Database
-- MySQL, MongoDB, RedisCache
+- Cassandra, Postgresql, MySQL, Dgraph MongoDB, Redis
+
 ### Cloud
+- Docker, Uwsgi, Gunicorn, bash
 - Setting up cloud, VPS
 - GCP, AWS, Digitalocean, Linode
 - Apache2, Nginx, Reverse proxy
 - Server management, Troubleshooting
 
-
-### Cloud
-- Setting up cloud, VPS
-- GCP, AWS, Digitalocean, Linode
-- Apache2, Nginx, Reverse proxy
-- Server management, Troubleshooting
+### Others
+- Android
+- ANGULARJS
+- pandas,numpy, pytorch, tensorflow
+- Apache SPARK
 
 
 ![giasuddin90 github stats](https://github-readme-stats.vercel.app/api?username=giasuddin90&show_icons=true&hide_border=true)
