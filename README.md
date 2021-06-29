@@ -1,4 +1,4 @@
-# Hi, I'm Gias Uddin :wave: :male-technologist:
+# Hi, I'm Gias Uddin 👋 👨‍💻 Software Engineer:
 7+ years of experience as PHP Programmer includes Excellent experience in Developing Web
 Applications, web sites, ecommerce projects using PHP. Good work ethics with excellent
 communication and interpersonal skills. Capable to delve into the new leading Technologies. Ability to
