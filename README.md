@@ -18,5 +18,14 @@ same time.
 - GCP, AWS, Digitalocean, Linode
 - Apache2, Nginx, Reverse proxy
 - Server management, Troubleshooting
-![giasudin90 github stats](https://github-readme-stats.vercel.app/api?username=giasuddin90&show_icons=true&hide_border=true)
+
+
+### Cloud
+- Setting up cloud, VPS
+- GCP, AWS, Digitalocean, Linode
+- Apache2, Nginx, Reverse proxy
+- Server management, Troubleshooting
+
+
+![giasuddin90 github stats](https://github-readme-stats.vercel.app/api?username=giasuddin90&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giasuddin90&layout=compact)
